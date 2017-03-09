@@ -1,2 +1,6 @@
 # hello-world
-Just another Repository
+
+Hello mortals!
+
+This is your master.
+BOW before me!
